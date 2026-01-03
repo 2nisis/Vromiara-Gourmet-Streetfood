@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vromiara-Gourmet-Streetfood/static/css/main.54769299.css",
+    "main.js": "/Vromiara-Gourmet-Streetfood/static/js/main.cb719a0a.js",
+    "index.html": "/Vromiara-Gourmet-Streetfood/index.html",
+    "main.54769299.css.map": "/Vromiara-Gourmet-Streetfood/static/css/main.54769299.css.map",
+    "main.cb719a0a.js.map": "/Vromiara-Gourmet-Streetfood/static/js/main.cb719a0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54769299.css",
+    "static/js/main.cb719a0a.js"
+  ]
+}
